@@ -1,0 +1,11 @@
+Package: com.xtm3x.fullswitch
+Name: FullSwitch
+Conflicts: com.a3tweaks.auxo2, org.thebigboss.classicswitcher, org.thebigboss.switchr, org.thebigboss.gridswitcher
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fullscreen App Switcher cards
+Maintainer: xTheMaster3x
+Author: xTheMaster3x
+Section: Tweaks
+Depiction: http://repo.tm3dev.com/depics/fullswitch.html

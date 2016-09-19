@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Lead Developer</string>
+			<key>footerText</key>
+			<string>Developed the main portion of the tweak.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>action</key>
+			<string>twitter</string>
+			<key>label</key>
+			<string>@xTM3x</string>
+			<key>icon</key>
+			<string>twitter@2x.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>action</key>
+			<string>web</string>
+			<key>label</key>
+			<string>Report a Bug</string>
+			<key>icon</key>
+			<string>web@2x.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Co-Developer</string>
+			<key>footerText</key>
+			<string>Helped clean up/fix things.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>action</key>
+			<string>twitter2</string>
+			<key>label</key>
+			<string>@Nexuist</string>
+			<key>icon</key>
+			<string>twitter@2x.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Designer</string>
+			<key>footerText</key>
+			<string>Designed icon/images.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>action</key>
+			<string>twitter3</string>
+			<key>label</key>
+			<string>@deckedsg</string>
+			<key>icon</key>
+			<string>twitter@2x.png</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Credits</string>
+</dict>
+</plist>

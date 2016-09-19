@@ -1,0 +1,11 @@
+Package: com.xtm3x.fullswitch8
+Name: FullSwitch (iOS 8)
+Conflicts: org.thebigboss.classicswitcher, org.thebigboss.switchr, org.thebigboss.gridswitcher, com.xtm3x.fullswitch, com.xtm3x.sweepup
+Depends: mobilesubstrate
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Fullscreen App Switcher cards
+Maintainer: xTheMaster3x
+Author: xTheMaster3x
+Section: Tweaks
+Depiction: http://repo.tm3dev.com/depics/fullswitch.html

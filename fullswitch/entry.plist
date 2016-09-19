@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = FullSwitch;
+	cell = PSLinkCell;
+	detail = FullSwitchListController;
+	icon = FullSwitch.png;
+	isController = 1;
+	label = FullSwitch;
+    };
+}
